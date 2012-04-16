@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-13 21:27:16.328000 -04:00
+  - :path: README.rdoc
+    :cursor_offset: 268
+    :timestamp: 2012-04-13 21:27:16.218000 -04:00
+  - :path: Rakefile
+    :cursor_offset: 282
+    :timestamp: 2012-04-13 21:27:16.218000 -04:00
+  - :path: config/database.yml
+    :cursor_offset: 191
+    :timestamp: 2012-04-15 19:27:22.343000 -04:00
+files_to_retain: 0

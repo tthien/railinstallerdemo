@@ -1,0 +1,4 @@
+--- 
+open_files: 
+  - Rakefile
+  - config/database.yml
